@@ -17,14 +17,17 @@ const buckets: Map<string, Bucket> =
   (globalThis as unknown as { __rateLimitBuckets?: Map<string, Bucket> })
     .__rateLimitBuckets || new Map();
 
-(globalThis as unknown as { __rateLimitBuckets?: Map<string, Bucket> }).__rateLimitBuckets =
-  buckets;
+(
+  globalThis as unknown as { __rateLimitBuckets?: Map<string, Bucket> }
+).__rateLimitBuckets = buckets;
 
 const DEFAULT_OPTS: RateLimitOptions = { windowMs: 60_000, max: 60 }; // 60 req/min per identifier
 
 export function getClientIdentifier(request: NextRequest): string {
   const forwarded = request.headers.get("x-forwarded-for");
-  const ip = request.ip || forwarded?.split(",")[0]?.trim();
+  const ip =
+    forwarded?.split(",")[0]?.trim() ||
+    (request as unknown as { ip?: string }).ip;
   return ip || "unknown";
 }
 
@@ -47,7 +50,10 @@ export function rateLimit(
   const current = buckets.get(identifier)!;
   const headers = new Headers();
   headers.set("X-RateLimit-Limit", options.max.toString());
-  headers.set("X-RateLimit-Remaining", Math.max(options.max - current.count, 0).toString());
+  headers.set(
+    "X-RateLimit-Remaining",
+    Math.max(options.max - current.count, 0).toString(),
+  );
   headers.set("X-RateLimit-Reset", current.resetAt.toString());
 
   const limited = current.count > options.max;

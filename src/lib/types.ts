@@ -43,7 +43,7 @@ export interface BillCommitteeAssignment {
   reportSubmittedDateBs: string | null;
   reportSubmittedDateAd: Date | null;
   createdAt: Date;
-  committee: Committee;
+  committee?: Committee | null;
 }
 
 export interface BillStatusHistory {
