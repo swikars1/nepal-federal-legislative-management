@@ -1,0 +1,2379 @@
+[
+  {
+    "bill_id": "PfzGSahf",
+    "type": "HoR",
+    "titleNp": "नेपाल पशु चिकित्सा परिषद् (पहिलो संशोधन) विधेयक, २०८२",
+    "titleEn": "Nepal Veterinary Medicine (First Amendment) Bill, 2082",
+    "registration_number": "10",
+    "year": "2082-03-29",
+    "sambat": "2082",
+    "presenter": "मा. रामनाथ  अधिकारी",
+    "ministry": "कृषि तथा पशुपन्छी विकास मन्त्रालय",
+    "session": "6",
+    "government_type": "सरकारी",
+    "bill_type": "संशोधन",
+    "category": "साधारण",
+    "resource_link": "https://hr.parliament.gov.np/uploads/attachments/4l5uf2wttlckmnuq.pdf",
+    "presenterEn": "Hon. Ramnath AdhikarI",
+    "ministryEn": "Ministry of Agriculture and Livestock Development",
+    "government_type_en": "Governmental",
+    "bill_type_en": "Amendment",
+    "category_en": "General",
+    "current_status": "General Discussion",
+    "current_status_date": "2082-05-19",
+    "status_timeline": [
+      {
+        "label": "Distribution to member",
+        "date": "2082-03-29"
+      },
+      {
+        "label": "Present in house of Representatives",
+        "date": "2082-04-20"
+      },
+      {
+        "label": "General Discussion",
+        "date": "2082-05-19"
+      }
+    ],
+    "scraped_at": "2026-03-03T17:02:56.722150"
+  },
+  {
+    "bill_id": "9akb4gZO",
+    "type": "HoR",
+    "titleNp": "राष्ट्रिय खेलकुद विकास (पहिलो संशोधन) विधेयक, २०८२",
+    "titleEn": "National Sports Development (First Amendment) Bill, 2082",
+    "registration_number": "9",
+    "year": "2082-02-30",
+    "sambat": "2082",
+    "presenter": "मा. तेजुलाल चौधरी",
+    "ministry": "युवा तथा खेलकुद मन्त्रालय",
+    "session": "6",
+    "government_type": "सरकारी",
+    "bill_type": "संशोधन",
+    "category": "साधारण",
+    "resource_link": "https://hr.parliament.gov.np/uploads/attachments/jwb1prlngy6l6zzp.pdf",
+    "presenterEn": "Hon. Tejulaal Chaudhary",
+    "ministryEn": "Ministry of Youth and Sports",
+    "government_type_en": "Governmental",
+    "bill_type_en": "Amendment",
+    "category_en": "General",
+    "current_status": "Discussion in Committee",
+    "current_status_date": "2082-05-06",
+    "status_timeline": [
+      {
+        "label": "Distribution to member",
+        "date": "2082-03-01"
+      },
+      {
+        "label": "Present in house of Representatives",
+        "date": "2082-03-23"
+      },
+      {
+        "label": "General Discussion",
+        "date": "2082-04-19"
+      },
+      {
+        "label": "Discussion in Committee",
+        "date": "2082-05-06"
+      }
+    ],
+    "scraped_at": "2026-03-03T17:02:57.382579"
+  },
+  {
+    "bill_id": "njBRB4qb",
+    "type": "HoR",
+    "titleNp": "सूचना प्रविधि तथा साइबर सुरक्षा विधेयक, २०८२",
+    "titleEn": "Information Technology and Cyber ​​Security Bill, 2082",
+    "registration_number": "8",
+    "year": "2082-02-28",
+    "sambat": "2082",
+    "presenter": "मा. पृथ्वीसुब्बा गुरुङ",
+    "ministry": "सञ्चार तथा सूचना प्रविधि मन्त्रालय",
+    "session": "6",
+    "government_type": "सरकारी",
+    "bill_type": "मूल",
+    "category": "साधारण",
+    "resource_link": "https://hr.parliament.gov.np/uploads/attachments/islm75pw7ptantee.pdf",
+    "presenterEn": "Hon. Prithavisubba Gurung",
+    "ministryEn": "Ministry of Communications and Information Technology",
+    "government_type_en": "Governmental",
+    "bill_type_en": "Original",
+    "category_en": "General",
+    "current_status": "Discussion in Committee",
+    "current_status_date": "2082-05-06",
+    "status_timeline": [
+      {
+        "label": "Distribution to member",
+        "date": "2082-02-28"
+      },
+      {
+        "label": "General Discussion",
+        "date": "2082-03-29"
+      },
+      {
+        "label": "Discussion in house",
+        "date": "2082-04-29"
+      },
+      {
+        "label": "Discussion in Committee",
+        "date": "2082-05-06"
+      }
+    ],
+    "scraped_at": "2026-03-03T17:02:58.027034"
+  },
+  {
+    "bill_id": "vlo1HxCh",
+    "type": "HoR",
+    "titleNp": "औद्योगिक सम्पत्ति सम्बन्धी विधेयक, २०८२",
+    "titleEn": "Industrial Property Bill, 2082",
+    "registration_number": "7",
+    "year": "2082-02-23",
+    "sambat": "2082",
+    "presenter": "मा. दामोदर भण्डारी",
+    "ministry": "उद्योग, वाणिज्य तथा आपूर्ति मन्त्रालय",
+    "session": "6",
+    "government_type": "सरकारी",
+    "bill_type": "मूल",
+    "category": "साधारण",
+    "resource_link": "https://hr.parliament.gov.np/uploads/attachments/ymsinfthh3eqcozu.pdf",
+    "presenterEn": "Hon. Damodar Bhandari",
+    "ministryEn": "Ministry of Industry, Commerce and Supplies",
+    "government_type_en": "Governmental",
+    "bill_type_en": "Original",
+    "category_en": "General",
+    "current_status": "Discussion in Committee",
+    "current_status_date": "2082-05-05",
+    "status_timeline": [
+      {
+        "label": "Distribution to member",
+        "date": "2082-02-23"
+      },
+      {
+        "label": "Present in house of Representatives",
+        "date": "2082-03-29"
+      },
+      {
+        "label": "General Discussion",
+        "date": "2082-04-21"
+      },
+      {
+        "label": "Discussion in Committee",
+        "date": "2082-05-05"
+      }
+    ],
+    "scraped_at": "2026-03-03T17:02:58.682036"
+  },
+  {
+    "bill_id": "tNnK3bl5",
+    "type": "HoR",
+    "titleNp": "बालबालिका सम्बन्धी (पहिलो संशोधन) विधेयक, २०८२",
+    "titleEn": "Children (First Amendment) Bill, 2082",
+    "registration_number": "3",
+    "year": "2082-02-07",
+    "sambat": "2082",
+    "presenter": "मा. नवल किशोर साह सुडी",
+    "ministry": "महिला, बालबालिका तथा ज्येष्ठ नागरिक मन्त्रालय",
+    "session": "6",
+    "government_type": "सरकारी",
+    "bill_type": "संशोधन",
+    "category": "साधारण",
+    "resource_link": "https://hr.parliament.gov.np/uploads/attachments/1tvijlloxqz2esv5.pdf",
+    "presenterEn": "Hon.Naval Kishor Shah Sudi",
+    "ministryEn": "Ministry of Women, Children and Senior Citizens",
+    "government_type_en": "Governmental",
+    "bill_type_en": "Amendment",
+    "category_en": "General",
+    "current_status": "Discussion in Committee",
+    "current_status_date": "2082-05-19",
+    "status_timeline": [
+      {
+        "label": "Distribution to member",
+        "date": "2082-02-07"
+      },
+      {
+        "label": "Present in house of Representatives",
+        "date": "2082-03-25"
+      },
+      {
+        "label": "General Discussion",
+        "date": "2082-05-04"
+      },
+      {
+        "label": "Discussion in Committee",
+        "date": "2082-05-19"
+      }
+    ],
+    "scraped_at": "2026-03-03T17:02:59.307796"
+  },
+  {
+    "bill_id": "ZJUoPgYB",
+    "type": "HoR",
+    "titleNp": "भूमि सम्बन्धी केही नेपाल ऐनलाई संशोधन गर्ने विधेयक,२०८२",
+    "titleEn": "Bill to amend certain Nepal Acts relating to land, 2082",
+    "registration_number": "2",
+    "year": "2082-01-23",
+    "sambat": "2082",
+    "presenter": "मा. बलराम अधिकारी",
+    "ministry": "भुमि व्यवस्था, सहकारी तथा गरिबी निवारण मन्त्तालय",
+    "session": "6",
+    "government_type": "सरकारी",
+    "bill_type": "संशोधन",
+    "category": "साधारण",
+    "resource_link": "https://hr.parliament.gov.np/uploads/attachments/xgen5jcwq1noe3ec.pdf",
+    "presenterEn": "Hon. Balram Adhikari",
+    "ministryEn": "Ministry of Land Management ,Cooperatives and Poverty Alleviation",
+    "government_type_en": "Governmental",
+    "bill_type_en": "Amendment",
+    "category_en": "General",
+    "current_status": "Passed by House",
+    "current_status_date": "2082-05-13",
+    "status_timeline": [
+      {
+        "label": "Distribution to member",
+        "date": "2082-01-23"
+      },
+      {
+        "label": "Present in house of Representatives",
+        "date": "2082-01-31"
+      },
+      {
+        "label": "General Discussion",
+        "date": "2082-02-06"
+      },
+      {
+        "label": "Discussion in Committee",
+        "date": "2082-04-09"
+      },
+      {
+        "label": "Report Submitted by Committee",
+        "date": "2082-05-06"
+      },
+      {
+        "label": "Passed by House",
+        "date": "2082-05-13"
+      }
+    ],
+    "scraped_at": "2026-03-03T17:02:59.932122"
+  },
+  {
+    "bill_id": "bMRO6EoX",
+    "type": "HoR",
+    "titleNp": "वैकल्पिक विकास वित्त परिचालन विधेयक, २०८१",
+    "titleEn": "Alternative Development Finance Mobilization Bill, 2081",
+    "registration_number": "1",
+    "year": "2082-01-05",
+    "sambat": "2082",
+    "presenter": "मा. विष्णुप्रसाद पौडेल",
+    "ministry": "अर्थ मन्त्रालय",
+    "session": "6",
+    "government_type": "सरकारी",
+    "bill_type": "मूल",
+    "category": "साधारण",
+    "resource_link": "https://hr.parliament.gov.np/uploads/attachments/asrycmmbqoaz6k9x.pdf",
+    "presenterEn": "Hon. Bisnuprasad Poudel",
+    "ministryEn": "Ministry of Finance",
+    "government_type_en": "Governmental",
+    "bill_type_en": "Original",
+    "category_en": "General",
+    "current_status": "Passed by House",
+    "current_status_date": "2082-05-06",
+    "status_timeline": [
+      {
+        "label": "Distribution to member",
+        "date": "2082-01-05"
+      },
+      {
+        "label": "Present in house of Representatives",
+        "date": "2082/01/12"
+      },
+      {
+        "label": "General Discussion",
+        "date": "2082-03-29"
+      },
+      {
+        "label": "Discussion in Committee",
+        "date": "2082-04-20"
+      },
+      {
+        "label": "Report Submitted by Committee",
+        "date": "2082-05-05"
+      },
+      {
+        "label": "Passed by House",
+        "date": "2082-05-06"
+      }
+    ],
+    "scraped_at": "2026-03-03T17:03:00.552992"
+  },
+  {
+    "bill_id": "qWUsRk1l",
+    "type": "HoR",
+    "titleNp": "मानव बेचबिखन तथा ओसारपसार (नियन्त्रण) (पहिलो संशोधन) विधेयक, २०८१",
+    "titleEn": "Bill to amend the Human Trafficking and Smuggling (Control) Act, 2064",
+    "registration_number": "13",
+    "year": "2081/12/11",
+    "sambat": "2081",
+    "presenter": "मा. नवल किशोर साह सुडी",
+    "ministry": "महिल, बालबालिका तथा ज्येष्ठ नागरिक मन्त्रालय",
+    "session": "5",
+    "government_type": "सरकारी",
+    "bill_type": "संशोधन",
+    "category": "साधारण",
+    "resource_link": "https://hr.parliament.gov.np/uploads/attachments/mediwqnhjjdbtfg7.pdf",
+    "presenterEn": "",
+    "ministryEn": "",
+    "government_type_en": "Governmental",
+    "bill_type_en": "Amendment",
+    "category_en": "General",
+    "current_status": "Discussion in Committee",
+    "current_status_date": "2082-05-04",
+    "status_timeline": [
+      {
+        "label": "Distribution to member",
+        "date": "2081/12/11"
+      },
+      {
+        "label": "Present in house of Representatives",
+        "date": "2081/12/18"
+      },
+      {
+        "label": "General Discussion",
+        "date": "2082/04/08"
+      },
+      {
+        "label": "Discussion in Committee",
+        "date": "2082-05-04"
+      }
+    ],
+    "scraped_at": "2026-03-03T17:03:01.185947"
+  },
+  {
+    "bill_id": "6UPMDYL3",
+    "type": "HoR",
+    "titleNp": "जाति, रंग, क्षेत्र, भेषभूषा, राष्ट्रियता वा उत्पत्तिमा आधारित भेदभाव (कसूर र सजाय) विधेयक, २०८१",
+    "titleEn": "Discrimination on the Basis of Caste, Colour, Region, Dress, Nationality or Origin (Offences and Punishments) Bill, 208",
+    "registration_number": "7",
+    "year": "2081-10-21",
+    "sambat": "2081",
+    "presenter": "मा. डा. चन्द्र कान्त राउत",
+    "ministry": "गैरसरकारी",
+    "session": "5",
+    "government_type": "गैर-सरकारी",
+    "bill_type": "मूल",
+    "category": "साधारण",
+    "resource_link": "https://hr.parliament.gov.np/uploads/attachments/ydb6ws9flrqqes6k.pdf",
+    "presenterEn": "Hon. Dr Chandra Kanta Raut",
+    "ministryEn": "non-governmental",
+    "government_type_en": "Non Governmental",
+    "bill_type_en": "Original",
+    "category_en": "General",
+    "current_status": "Distribution to member",
+    "current_status_date": "2081-10-22",
+    "status_timeline": [
+      {
+        "label": "Distribution to member",
+        "date": "2081-10-22"
+      }
+    ],
+    "scraped_at": "2026-03-03T17:03:01.814805"
+  },
+  {
+    "bill_id": "IqpALy3E",
+    "type": "HoR",
+    "titleNp": "निकासी पैठारी ( नियमन ) विधेयक,२०८१",
+    "titleEn": "Export Imports (Regulation) Bill, 2081",
+    "registration_number": "6",
+    "year": "2081-10-20",
+    "sambat": "2081",
+    "presenter": "मा. दामोदर भण्डारी",
+    "ministry": "उद्योग, वाणिज्य तथा आपूर्ति मन्त्रालय",
+    "session": "5",
+    "government_type": "सरकारी",
+    "bill_type": "मूल",
+    "category": "साधारण",
+    "resource_link": "https://hr.parliament.gov.np/uploads/attachments/yceofuituwenjsbg.pdf",
+    "presenterEn": "Hon. Damodar Bhnadari",
+    "ministryEn": "Ministry of Industry, Commerce and Supply",
+    "government_type_en": "Governmental",
+    "bill_type_en": "Original",
+    "category_en": "General",
+    "current_status": "Discussion in Committee",
+    "current_status_date": "2081-12-18",
+    "status_timeline": [
+      {
+        "label": "Distribution to member",
+        "date": "2081-10-21"
+      },
+      {
+        "label": "Present in house of Representatives",
+        "date": "2081-10-29"
+      },
+      {
+        "label": "Discussion in Committee",
+        "date": "2081-12-18"
+      }
+    ],
+    "scraped_at": "2026-03-03T17:03:02.443788"
+  },
+  {
+    "bill_id": "Dg0r9fXm",
+    "type": "HoR",
+    "titleNp": "नेपाल नागरिक उड्डयन प्राधिकरण विधेयक, २०८१",
+    "titleEn": "Nepal Civil Aviation Authority Bill, 2081",
+    "registration_number": "5",
+    "year": "2081-10-19",
+    "sambat": "2081",
+    "presenter": "मा. बद्री प्रसाद पाण्डे",
+    "ministry": "संस्कृती, पर्यटन तथा नागरिक उड्डयन मन्त्रालय",
+    "session": "5",
+    "government_type": "सरकारी",
+    "bill_type": "मूल",
+    "category": "साधारण",
+    "resource_link": "https://hr.parliament.gov.np/uploads/attachments/0hdtmzlulspszqh0.pdf",
+    "presenterEn": "Hon. Badri Prasad Pandey",
+    "ministryEn": "Ministry of Culture, Tourism and Civil Aviation",
+    "government_type_en": "Governmental",
+    "bill_type_en": "Original",
+    "category_en": "General",
+    "current_status": "Discussion in Committee",
+    "current_status_date": "2082-02-04",
+    "status_timeline": [
+      {
+        "label": "Distribution to member",
+        "date": "2081-10-19"
+      },
+      {
+        "label": "Present in house of Representatives",
+        "date": "2081-11-13"
+      },
+      {
+        "label": "General Discussion",
+        "date": "2082-01-15"
+      },
+      {
+        "label": "Discussion in Committee",
+        "date": "2082-02-04"
+      }
+    ],
+    "scraped_at": "2026-03-03T17:03:03.103135"
+  },
+  {
+    "bill_id": "eYOVmvS3",
+    "type": "HoR",
+    "titleNp": "नेपाल हवाई सेवा प्राधिकरण विधेयक, २०८१",
+    "titleEn": "Nepal Air Services Authority Bill, 2081",
+    "registration_number": "4",
+    "year": "2081-10-19",
+    "sambat": "2081",
+    "presenter": "मा. बद्री प्रसाद पाण्डे",
+    "ministry": "संस्कृती, पर्यटन तथा नागरिक उड्डयन मन्त्रालय",
+    "session": "5",
+    "government_type": "सरकारी",
+    "bill_type": "मूल",
+    "category": "साधारण",
+    "resource_link": "https://hr.parliament.gov.np/uploads/attachments/iydkmbly9qhlhqho.pdf",
+    "presenterEn": "Hon. Badri Prasad Pandey",
+    "ministryEn": "संस्कृती, पर्यटन तथा नागरिक उड्डयन मन्त्राल",
+    "government_type_en": "Governmental",
+    "bill_type_en": "Original",
+    "category_en": "General",
+    "current_status": "Discussion in Committee",
+    "current_status_date": "2082-02-04",
+    "status_timeline": [
+      {
+        "label": "Distribution to member",
+        "date": "2081-10-19"
+      },
+      {
+        "label": "Present in house of Representatives",
+        "date": "2081-11-13"
+      },
+      {
+        "label": "General Discussion",
+        "date": "2082-01-14"
+      },
+      {
+        "label": "Discussion in Committee",
+        "date": "2082-02-04"
+      }
+    ],
+    "scraped_at": "2026-03-03T17:03:03.744105"
+  },
+  {
+    "bill_id": "OwkNlOti",
+    "type": "HoR",
+    "titleNp": "सशस्त्र प्रहरी बल, नेपाल विधेयक,२०८१",
+    "titleEn": "Armed Police Force, Nepal Bill, 2081",
+    "registration_number": "3",
+    "year": "2081-10-15",
+    "sambat": "2081",
+    "presenter": "मा. रमेश लेखक",
+    "ministry": "गृह मन्त्रालय",
+    "session": "5",
+    "government_type": "सरकारी",
+    "bill_type": "संशोधन",
+    "category": "साधारण",
+    "resource_link": "https://hr.parliament.gov.np/uploads/attachments/ehjc2ismtkg2t15h.pdf",
+    "presenterEn": "Hon. Ramesh Lekhak",
+    "ministryEn": "Ministry of Home Affairs",
+    "government_type_en": "Governmental",
+    "bill_type_en": "Amendment",
+    "category_en": "General",
+    "current_status": "Discussion in Committee",
+    "current_status_date": "2081-12-06",
+    "status_timeline": [
+      {
+        "label": "Distribution to member",
+        "date": "2081-10-16"
+      },
+      {
+        "label": "Present in house of Representatives",
+        "date": "2081-10-27"
+      },
+      {
+        "label": "General Discussion",
+        "date": "2081-11-12"
+      },
+      {
+        "label": "Discussion in Committee",
+        "date": "2081-12-06"
+      }
+    ],
+    "scraped_at": "2026-03-03T17:03:04.385238"
+  },
+  {
+    "bill_id": "8dczslHF",
+    "type": "HoR",
+    "titleNp": "नेपाल प्रहरी विधेयक,२०८१",
+    "titleEn": "Nepal Police Bill, 2081",
+    "registration_number": "1",
+    "year": "2081-10-15",
+    "sambat": "2081",
+    "presenter": "मा. रमेश लेखक",
+    "ministry": "गृह मन्त्रालय",
+    "session": "5",
+    "government_type": "सरकारी",
+    "bill_type": "संशोधन",
+    "category": "साधारण",
+    "resource_link": "https://hr.parliament.gov.np/uploads/attachments/trkboytajossb3hv.pdf",
+    "presenterEn": "Hon. Ramesh Lekhak",
+    "ministryEn": "Ministry of Home Affairs",
+    "government_type_en": "Governmental",
+    "bill_type_en": "Amendment",
+    "category_en": "General",
+    "current_status": "Discussion in Committee",
+    "current_status_date": "2081-11-11",
+    "status_timeline": [
+      {
+        "label": "Distribution to member",
+        "date": "2081-10-16"
+      },
+      {
+        "label": "Present in house of Representatives",
+        "date": "2081-10-27"
+      },
+      {
+        "label": "General Discussion",
+        "date": "2081-11-05"
+      },
+      {
+        "label": "Discussion in Committee",
+        "date": "2081-11-11"
+      }
+    ],
+    "scraped_at": "2026-03-03T17:03:05.027225"
+  },
+  {
+    "bill_id": "5cZGzbho",
+    "type": "HoR",
+    "titleNp": "आर्थिक कार्यविधि तथा वित्तीय उत्तरदायित्व (पहिलो संशोधन) विधेयक, २०८१ (२०८१/१०/२७ गतेको सभाको निर्णयानुसार फिर्ता)",
+    "titleEn": "The Economic Procedure and Fiscal Responsibility (First Amendment) Bill, 2081",
+    "registration_number": "26",
+    "year": "2081-04-32",
+    "sambat": "2081",
+    "presenter": "मा. विष्णुप्रसाद पौडेल",
+    "ministry": "अर्थ मन्त्रालय",
+    "session": "4",
+    "government_type": "सरकारी",
+    "bill_type": "संशोधन",
+    "category": "साधारण",
+    "resource_link": "https://hr.parliament.gov.np/uploads/attachments/b4whrlmmpfgdhz0a.pdf",
+    "presenterEn": "Hon. Bisnu Prasad Poudel",
+    "ministryEn": "Ministry of Finance",
+    "government_type_en": "Governmental",
+    "bill_type_en": "Amendment",
+    "category_en": "General",
+    "current_status": "Discussion in Committee",
+    "current_status_date": "2081-05-18",
+    "status_timeline": [
+      {
+        "label": "Distribution to member",
+        "date": "2081-04-32"
+      },
+      {
+        "label": "Present in house of Representatives",
+        "date": "2081-05-06"
+      },
+      {
+        "label": "General Discussion",
+        "date": "2081-05-12"
+      },
+      {
+        "label": "Discussion in Committee",
+        "date": "2081-05-18"
+      }
+    ],
+    "scraped_at": "2026-03-03T17:03:05.688732"
+  },
+  {
+    "bill_id": "1MrL02gZ",
+    "type": "HoR",
+    "titleNp": "धितोपत्र सम्बन्धी (पहिलो संशोधन)  विधेयक, २०८१",
+    "titleEn": "The Securities (First Amendment) Bill, 2081",
+    "registration_number": "25",
+    "year": "2081-04-32",
+    "sambat": "2081",
+    "presenter": "मा. विष्णुप्रसाद पौडेल",
+    "ministry": "अर्थ मन्त्रालय",
+    "session": "4",
+    "government_type": "सरकारी",
+    "bill_type": "संशोधन",
+    "category": "साधारण",
+    "resource_link": "https://hr.parliament.gov.np/uploads/attachments/8mmlrptjwlcoewww.pdf",
+    "presenterEn": "Hon. Bisnu Prasad Poudel",
+    "ministryEn": "Ministry of Finance",
+    "government_type_en": "Governmental",
+    "bill_type_en": "Amendment",
+    "category_en": "General",
+    "current_status": "Discussion in Committee",
+    "current_status_date": "2081-05-18",
+    "status_timeline": [
+      {
+        "label": "Distribution to member",
+        "date": "2081-04-32"
+      },
+      {
+        "label": "Present in house of Representatives",
+        "date": "2081-05-06"
+      },
+      {
+        "label": "General Discussion",
+        "date": "2081-05-11"
+      },
+      {
+        "label": "Discussion in Committee",
+        "date": "2081-05-18"
+      }
+    ],
+    "scraped_at": "2026-03-03T17:03:06.306273"
+  },
+  {
+    "bill_id": "jYeNGK2E",
+    "type": "HoR",
+    "titleNp": "मानव शरीर जलन नियन्त्रण तथा सजाय विधेयक, २०८१",
+    "titleEn": "Human Body Burning Control and Punishment Bill, 2081",
+    "registration_number": "24",
+    "year": "2081-04-31",
+    "sambat": "2081",
+    "presenter": "मा. बिन्दबासिनि कांसकार सहित १४ जना",
+    "ministry": "गैरसरकारी विधेयक",
+    "session": "4",
+    "government_type": "गैर-सरकारी",
+    "bill_type": "मूल",
+    "category": "साधारण",
+    "resource_link": "https://hr.parliament.gov.np/uploads/attachments/afylqawy2ttj5glr.pdf",
+    "presenterEn": "14 people including Hons. Bindabasini Kanskar",
+    "ministryEn": "Non-Governmental  Bill",
+    "government_type_en": "Non Governmental",
+    "bill_type_en": "Original",
+    "category_en": "General",
+    "current_status": null,
+    "current_status_date": null,
+    "status_timeline": [],
+    "scraped_at": "2026-03-03T17:03:07.259669"
+  },
+  {
+    "bill_id": "WwR6UyFy",
+    "type": "HoR",
+    "titleNp": "जलस्रोत विधेयक, २०८१",
+    "titleEn": "",
+    "registration_number": "23",
+    "year": "2081-02-31",
+    "sambat": "2081",
+    "presenter": "मा. शक्ति बहादुर बस्नेत",
+    "ministry": "ऊर्जा, जलस्रोत तथा सिंचाइ मन्त्रालय",
+    "session": "4",
+    "government_type": "सरकारी",
+    "bill_type": "मूल",
+    "category": "साधारण",
+    "resource_link": "https://hr.parliament.gov.np/uploads/attachments/3dmir1bmzlhorfw3.pdf",
+    "presenterEn": "",
+    "ministryEn": "",
+    "government_type_en": "Governmental",
+    "bill_type_en": "Original",
+    "category_en": "General",
+    "current_status": "Passed/Return By National Assembly",
+    "current_status_date": "2082-04-23",
+    "status_timeline": [
+      {
+        "label": "Distribution to member",
+        "date": "2081-02-32"
+      },
+      {
+        "label": "Present in house of Representatives",
+        "date": "2081-03-14"
+      },
+      {
+        "label": "General Discussion",
+        "date": "2081-03-17"
+      },
+      {
+        "label": "Discussion in Committee",
+        "date": "2081-03-25"
+      },
+      {
+        "label": "Report Submitted by Committee",
+        "date": "2081-12-18"
+      },
+      {
+        "label": "Passed by House",
+        "date": "2082-02-05"
+      },
+      {
+        "label": "Passed/Return By National Assembly",
+        "date": "2082-04-23"
+      }
+    ],
+    "scraped_at": "2026-03-03T17:03:09.064997"
+  },
+  {
+    "bill_id": "7vqryP08",
+    "type": "HoR",
+    "titleNp": "आर्थिक कार्यविधि तथा वित्तीय उत्तरदायित्व (पहिलो संशोधन) विधेयक, २०८० (निष्क्रिय)",
+    "titleEn": "",
+    "registration_number": "17",
+    "year": "2080-12-09",
+    "sambat": "२०८०",
+    "presenter": "मा. बर्षमान पुन",
+    "ministry": "अर्थ मन्त्रालय",
+    "session": "3",
+    "government_type": "सरकारी",
+    "bill_type": "संशोधन",
+    "category": "साधारण",
+    "resource_link": "https://hr.parliament.gov.np/uploads/attachments/1bwhpv4l7efpmdyc.pdf",
+    "presenterEn": "",
+    "ministryEn": "",
+    "government_type_en": "Governmental",
+    "bill_type_en": "Amendment",
+    "category_en": "General",
+    "current_status": "Distribution to member",
+    "current_status_date": "२०८०-१२-०९",
+    "status_timeline": [
+      {
+        "label": "Distribution to member",
+        "date": "२०८०-१२-०९"
+      }
+    ],
+    "scraped_at": "2026-03-03T17:03:09.688745"
+  },
+  {
+    "bill_id": "ZjZGTvSa",
+    "type": "HoR",
+    "titleNp": "बैङ्क तथा वित्तीय संस्था सम्बन्धी (पहिलो संशोधन) विधेयक, २०८०",
+    "titleEn": "",
+    "registration_number": "16",
+    "year": "2080-12-05",
+    "sambat": "२०८०",
+    "presenter": "मा. वर्पमान पुन",
+    "ministry": "अर्थ मन्त्रालय",
+    "session": "3",
+    "government_type": "सरकारी",
+    "bill_type": "संशोधन",
+    "category": "साधारण",
+    "resource_link": "https://hr.parliament.gov.np/uploads/attachments/bkbf7hfzf29odije.pdf",
+    "presenterEn": "",
+    "ministryEn": "",
+    "government_type_en": "Governmental",
+    "bill_type_en": "Amendment",
+    "category_en": "General",
+    "current_status": "Discussion in Committee",
+    "current_status_date": "2081-03-17",
+    "status_timeline": [
+      {
+        "label": "Distribution to member",
+        "date": "२०८०-१२-०५"
+      },
+      {
+        "label": "Present in house of Representatives",
+        "date": "2081-01-02"
+      },
+      {
+        "label": "General Discussion",
+        "date": "2081-02-24"
+      },
+      {
+        "label": "Discussion in Committee",
+        "date": "2081-03-17"
+      }
+    ],
+    "scraped_at": "2026-03-03T17:03:10.341657"
+  },
+  {
+    "bill_id": "0uAfbFqR",
+    "type": "HoR",
+    "titleNp": "सङ्‌घीय निजामती सेवाको गठन, सञ्चालन र सेवाका सर्त सम्बन्धमा व्यवस्था गर्न बनेको विधेयक, २०८०",
+    "titleEn": "Civil Service bill, 2024",
+    "registration_number": "15",
+    "year": "2080-11-21",
+    "sambat": "2080",
+    "presenter": "माननीय अनिता देवी",
+    "ministry": "सङ्‌घीय मामिला तथा सामान्य प्रशासन मन्त्रालय",
+    "session": "3",
+    "government_type": "सरकारी",
+    "bill_type": "मूल",
+    "category": "साधारण",
+    "resource_link": "https://hr.parliament.gov.np/uploads/attachments/gxuxhd6y2rbxpziv.pdf",
+    "presenterEn": "",
+    "ministryEn": "",
+    "government_type_en": "Governmental",
+    "bill_type_en": "Original",
+    "category_en": "General",
+    "current_status": "Passed/Return By National Assembly",
+    "current_status_date": "2082-05-17",
+    "status_timeline": [
+      {
+        "label": "Distribution to member",
+        "date": "2080-11--2"
+      },
+      {
+        "label": "Discussion in Committee",
+        "date": "2081-02-15"
+      },
+      {
+        "label": "Report Submitted by Committee",
+        "date": "2082-03-01"
+      },
+      {
+        "label": "Passed by House",
+        "date": "2082-03-15"
+      },
+      {
+        "label": "Passed/Return By National Assembly",
+        "date": "2082-05-17"
+      }
+    ],
+    "scraped_at": "2026-03-03T17:03:10.983049"
+  },
+  {
+    "bill_id": "9HBSMiVH",
+    "type": "HoR",
+    "titleNp": "राजनीतिक दल सम्बन्धी (दोस्रो संशोधन) विधेयक, २०८० (फिर्ता)",
+    "titleEn": "Political Parties (Second Amendment) Bill, 2080",
+    "registration_number": "14",
+    "year": "2080-10-18",
+    "sambat": "2080",
+    "presenter": "गृहमन्त्री मा. नारायणकाजी श्रेष्ठ",
+    "ministry": "गृह मन्त्रालय",
+    "session": "3",
+    "government_type": "सरकारी",
+    "bill_type": "संशोधन",
+    "category": "साधारण",
+    "resource_link": "https://hr.parliament.gov.np/uploads/attachments/0nda8tvnqweguvnv.pdf",
+    "presenterEn": "Minister of Home Affairs hon.Narayankaji Shrestha",
+    "ministryEn": "Ministry of Home Affairs",
+    "government_type_en": "Governmental",
+    "bill_type_en": "Amendment",
+    "category_en": "General",
+    "current_status": null,
+    "current_status_date": null,
+    "status_timeline": [],
+    "scraped_at": "2026-03-03T17:03:11.631457"
+  },
+  {
+    "bill_id": "d0rh070G",
+    "type": "HoR",
+    "titleNp": "निर्माणमुखि सामग्री (व्यवस्थापन तथा नियमन) विधेयक, २०८०",
+    "titleEn": "Construction Materials (Administration and Regulation) Bill, 2080",
+    "registration_number": "13",
+    "year": "2080-07-16",
+    "sambat": "2080",
+    "presenter": "मा. अनिता देवी",
+    "ministry": "संघीय मामिला तथा सामान्य प्रशासन मन्त्रालय",
+    "session": "2",
+    "government_type": "सरकारी",
+    "bill_type": "मूल",
+    "category": "साधारण",
+    "resource_link": "https://hr.parliament.gov.np/uploads/attachments/hjns58fl1ew4kic1.pdf",
+    "presenterEn": "Hon. Anita Devi",
+    "ministryEn": "Ministry of Federal Affairs and General Administration",
+    "government_type_en": "Governmental",
+    "bill_type_en": "Original",
+    "category_en": "General",
+    "current_status": "Discussion in Committee",
+    "current_status_date": "2080-12-18",
+    "status_timeline": [
+      {
+        "label": "Discussion in Committee",
+        "date": "2080-12-18"
+      }
+    ],
+    "scraped_at": "2026-03-03T17:03:12.284266"
+  },
+  {
+    "bill_id": "PzmnRoSo",
+    "type": "HoR",
+    "titleNp": "औषधि तथा स्वास्थ्य सामग्री (नियमन तथा नियन्त्रण) विधेयक, २०८० (प्रस्तुतकर्ता मन्त्री हुनुभएपछि निष्क्रिय)",
+    "titleEn": "Medicines and Health Goods (Regulation and Control) Bill, 2080",
+    "registration_number": "10",
+    "year": "2080-06-12",
+    "sambat": "2080",
+    "presenter": "मा. प्रदिप पौडेल",
+    "ministry": "गैर सरकारी",
+    "session": "2",
+    "government_type": "गैर-सरकारी",
+    "bill_type": "मूल",
+    "category": "साधारण",
+    "resource_link": "https://hr.parliament.gov.np/uploads/attachments/aupookmkcr4d9fig.pdf",
+    "presenterEn": "Hon. Pradip Poudel",
+    "ministryEn": "Non-Official",
+    "government_type_en": "Non Governmental",
+    "bill_type_en": "Original",
+    "category_en": "General",
+    "current_status": null,
+    "current_status_date": null,
+    "status_timeline": [],
+    "scraped_at": "2026-03-03T17:03:12.941863"
+  },
+  {
+    "bill_id": "hWvXvuIn",
+    "type": "HoR",
+    "titleNp": "विद्युत विधेयक, २०८०",
+    "titleEn": "Electricity Bill, 2080",
+    "registration_number": "9",
+    "year": "2080-05-27",
+    "sambat": "2080",
+    "presenter": "मा. शक्ति बहादुर बस्नेत",
+    "ministry": "ऊर्जा, जलस्रोत तथा सिंचाइ मन्त्रालय",
+    "session": "2",
+    "government_type": "सरकारी",
+    "bill_type": "मूल",
+    "category": "साधारण",
+    "resource_link": "https://hr.parliament.gov.np/uploads/attachments/jegm7wg9kwlnuhjq.pdf",
+    "presenterEn": "Hon. Shakti Bahadur Basnet",
+    "ministryEn": "Ministry of Energy, Water Resources and Irrigation",
+    "government_type_en": "Governmental",
+    "bill_type_en": "Original",
+    "category_en": "General",
+    "current_status": "Discussion in Committee",
+    "current_status_date": "2080-06-26",
+    "status_timeline": [
+      {
+        "label": "Distribution to member",
+        "date": "2080-05-27"
+      },
+      {
+        "label": "Discussion in Committee",
+        "date": "2080-06-26"
+      }
+    ],
+    "scraped_at": "2026-03-03T17:03:13.592020"
+  },
+  {
+    "bill_id": "fYSPD0Tl",
+    "type": "HoR",
+    "titleNp": "विद्यालय शिक्षा विधेयक, २०८०",
+    "titleEn": "School Education Bill, 2080",
+    "registration_number": "8",
+    "year": "2080-05-27",
+    "sambat": "2080",
+    "presenter": "मा. अशोक कुमार राई",
+    "ministry": "शिक्षा, विज्ञान तथा प्रविधि मन्त्रालय",
+    "session": "2",
+    "government_type": "सरकारी",
+    "bill_type": "मूल",
+    "category": "साधारण",
+    "resource_link": "https://hr.parliament.gov.np/uploads/attachments/kycsri0wk5dlhuy2.pdf",
+    "presenterEn": "Hon. Ashok Kumar Rai",
+    "ministryEn": "Ministry of Education, Science and Technology",
+    "government_type_en": "Governmental",
+    "bill_type_en": "Original",
+    "category_en": "General",
+    "current_status": "Report Submitted by Committee",
+    "current_status_date": "2082-05-06",
+    "status_timeline": [
+      {
+        "label": "Discussion in Committee",
+        "date": "2080-06-25"
+      },
+      {
+        "label": "Report Submitted by Committee",
+        "date": "2082-05-06"
+      }
+    ],
+    "scraped_at": "2026-03-03T17:03:14.243290"
+  },
+  {
+    "bill_id": "pLjIFW3S",
+    "type": "HoR",
+    "titleNp": "संवैधानिक परिषद् (काम, कर्तव्य, अधिकार र कार्यविधि) सम्बन्धी ऐन, २०६६ लाई संशोधन गर्न बनेको विधेयक",
+    "titleEn": "A Bill to amend the Constitutional Council (Functions, Duties, Powers and Procedures) Act, 2066",
+    "registration_number": "2",
+    "year": "2079-11-12",
+    "sambat": "2079",
+    "presenter": "सम्माननीय प्रधानमन्त्री पुष्पकमल दाहाल 'प्रचण्ड'",
+    "ministry": "प्रधानमन्त्री तथा मन्त्रिपरिषद्को कार्यालय",
+    "session": "1",
+    "government_type": "सरकारी",
+    "bill_type": "संशोधन",
+    "category": "साधारण",
+    "resource_link": "https://hr.parliament.gov.np/uploads/attachments/6fjbmkil4vrty8wc.pdf",
+    "presenterEn": "Honorable Prime Minister Pushpa Kamal Dahal 'Prachanda'",
+    "ministryEn": "Office of the Prime Minister and Council of Ministers",
+    "government_type_en": "Governmental",
+    "bill_type_en": "Amendment",
+    "category_en": "General",
+    "current_status": "Repassed",
+    "current_status_date": "2082-03-25",
+    "status_timeline": [
+      {
+        "label": "Distribution to member",
+        "date": "2079-11-14"
+      },
+      {
+        "label": "Present in house of Representatives",
+        "date": "2079-12-05"
+      },
+      {
+        "label": "General Discussion",
+        "date": "2079-12-12"
+      },
+      {
+        "label": "Discussion in Committee",
+        "date": "2080-01-15"
+      },
+      {
+        "label": "Report Submitted by Committee",
+        "date": "2081-02-17"
+      },
+      {
+        "label": "Passed by House",
+        "date": "2081-12-18"
+      },
+      {
+        "label": "Passed/Return By National Assembly",
+        "date": "2082-02-30"
+      },
+      {
+        "label": "Repassed",
+        "date": "2082-03-25"
+      }
+    ],
+    "scraped_at": "2026-03-03T17:03:14.922640"
+  },
+  {
+    "bill_id": "Ug5fG2g4",
+    "type": "HoR",
+    "titleNp": "वैकल्पिक विकास वित्त परिचालन विधेयक, २०८२",
+    "titleEn": "Alternative Development Finance Mobilization Bill, 2082",
+    "registration_number": "1",
+    "year": "2082-09-18",
+    "sambat": "2082",
+    "presenter": "मा. रामेश्वरप्रसाद खनाल",
+    "ministry": "अर्थ मन्त्रालय",
+    "session": "-",
+    "government_type": "सरकारी",
+    "bill_type": "मूल",
+    "category": "साधारण",
+    "resource_link": "https://hr.parliament.gov.np/uploads/attachments/e5rhxtjobn916keh.pdf",
+    "presenterEn": "Hon. Rameshwor Prasad Khanal",
+    "ministryEn": "Ministry of Finance",
+    "government_type_en": "Governmental",
+    "bill_type_en": "Original",
+    "category_en": "General",
+    "current_status": null,
+    "current_status_date": null,
+    "status_timeline": [],
+    "scraped_at": "2026-03-03T17:03:15.546017"
+  },
+  {
+    "bill_id": "ANMH7JnX",
+    "type": "NA",
+    "titleNp": "अभौतिक सांस्कृतिक सम्पदा (संरक्षण) विधेयक, २०८१",
+    "titleEn": "The Intangible Cultural Property (Protection) Bill, 2081",
+    "registration_number": "3",
+    "year": "2082/01/31",
+    "sambat": "2082",
+    "presenter": "माननीय मन्त्री बद्री प्रसाद पाण्डे",
+    "ministry": "संस्कृति, पर्यटन तथा नागरिक उड्डयन मन्त्रालय",
+    "session": "18",
+    "government_type": "सरकारी",
+    "bill_type": "मूल",
+    "category": "साधारण",
+    "resource_link": "https://na.parliament.gov.np/uploads/attachments/iillp0geer4mfiyf.pdf",
+    "presenterEn": "Honorable Minister  Badri Prasad Pandey",
+    "ministryEn": "Ministry of Culture, Tourism and Civil Aviation",
+    "government_type_en": "Governmental",
+    "bill_type_en": "Original",
+    "category_en": "General",
+    "current_status": "Discussion in Committee",
+    "current_status_date": "2082/10/14",
+    "status_timeline": [
+      {
+        "label": "Distribution to member",
+        "date": "2082/02/01"
+      },
+      {
+        "label": "homePage.present_in_assembly",
+        "date": "2082/04/27"
+      },
+      {
+        "label": "General Discussion",
+        "date": "2082/05/06"
+      },
+      {
+        "label": "Discussion in Committee",
+        "date": "2082/10/14"
+      }
+    ],
+    "scraped_at": "2026-03-03T17:03:17.452259"
+  },
+  {
+    "bill_id": "b3feN0Fa",
+    "type": "NA",
+    "titleNp": "चलचित्र विधेयक, २०८१",
+    "titleEn": "Film Bill,2081",
+    "registration_number": "2",
+    "year": "2082/01/14",
+    "sambat": "2082",
+    "presenter": "माननीय सञ्चार तथा सूचना प्रविधि मन्त्री पृथ्वीसुब्बा गुरूङ",
+    "ministry": "सञ्चार तथा सूचना प्रविधि मन्त्रालय",
+    "session": "18",
+    "government_type": "सरकारी",
+    "bill_type": "मूल",
+    "category": "साधारण",
+    "resource_link": "https://na.parliament.gov.np/uploads/attachments/8ntnzc8jtygtgzmo.pdf",
+    "presenterEn": "Hon'ble Minister Mr. Prithvi Subba Gurung",
+    "ministryEn": "Ministry of Communication and Information Technology",
+    "government_type_en": "Governmental",
+    "bill_type_en": "Original",
+    "category_en": "General",
+    "current_status": "homePage.assembly_passed",
+    "current_status_date": "2082/10/28",
+    "status_timeline": [
+      {
+        "label": "Distribution to member",
+        "date": "2082/01/15"
+      },
+      {
+        "label": "homePage.present_in_assembly",
+        "date": "2082/02/06"
+      },
+      {
+        "label": "General Discussion",
+        "date": "2082/03/09"
+      },
+      {
+        "label": "Discussion in Committee",
+        "date": "2082/04/14"
+      },
+      {
+        "label": "Report Submitted by Committee",
+        "date": "2082/10/13"
+      },
+      {
+        "label": "homePage.assembly_passed",
+        "date": "2082/10/28"
+      }
+    ],
+    "scraped_at": "2026-03-03T17:03:18.101985"
+  },
+  {
+    "bill_id": "yZP38v3o",
+    "type": "NA",
+    "titleNp": "पर्यटन विधेयक, २०८१",
+    "titleEn": "Tourism Bill, 2081",
+    "registration_number": "1",
+    "year": "2082/01/05",
+    "sambat": "2082",
+    "presenter": "माननीय संस्कृति, पर्यटन तथा नागरिक उड्डयन मन्त्री बद्री प्रसाद पाण्डे",
+    "ministry": "संस्कृति, पर्यटन तथा नागरिक उड्डयन मन्त्रालय",
+    "session": "18",
+    "government_type": "सरकारी",
+    "bill_type": "मूल",
+    "category": "साधारण",
+    "resource_link": "https://na.parliament.gov.np/uploads/attachments/okdonvorvihyp8in.pdf",
+    "presenterEn": "Hon’ble Minister Badri Prasad Pandey",
+    "ministryEn": "Ministry of Culture, Tourism and Civil Aviation",
+    "government_type_en": "Governmental",
+    "bill_type_en": "Original",
+    "category_en": "General",
+    "current_status": "homePage.assembly_passed",
+    "current_status_date": "2082/10/26",
+    "status_timeline": [
+      {
+        "label": "Distribution to member",
+        "date": "2082/01/05"
+      },
+      {
+        "label": "homePage.present_in_assembly",
+        "date": "2082/01/14"
+      },
+      {
+        "label": "General Discussion",
+        "date": "2082/02/07"
+      },
+      {
+        "label": "Discussion in Committee",
+        "date": "2082/04/11"
+      },
+      {
+        "label": "Report Submitted by Committee",
+        "date": "2082/10/09"
+      },
+      {
+        "label": "homePage.assembly_passed",
+        "date": "2082/10/26"
+      }
+    ],
+    "scraped_at": "2026-03-03T17:03:18.738156"
+  },
+  {
+    "bill_id": "JCC7TZJz",
+    "type": "NA",
+    "titleNp": "सामाजिक सञ्जाल विधेयक, २०८१ (मिति २०८२/१०/२६ मा  फिर्ता)",
+    "titleEn": "Social Network Bill,2081",
+    "registration_number": "3",
+    "year": "2081/10/15",
+    "sambat": "2081",
+    "presenter": "माननीय मन्त्री  पृथ्वीसुब्बा गुरुङ",
+    "ministry": "सञ्चार तथा सूचना प्रविधि मन्त्रालय",
+    "session": "17",
+    "government_type": "सरकारी",
+    "bill_type": "मूल",
+    "category": "साधारण",
+    "resource_link": "https://na.parliament.gov.np/uploads/attachments/0qbicazidgmddi9n.pdf",
+    "presenterEn": "Hon'ble Minister Mr. Prithvi Subba Gurung",
+    "ministryEn": "Ministry of Communication and Information Technology",
+    "government_type_en": "Governmental",
+    "bill_type_en": "Original",
+    "category_en": "General",
+    "current_status": "Report Submitted by Committee",
+    "current_status_date": "2082/10/26",
+    "status_timeline": [
+      {
+        "label": "Distribution to member",
+        "date": "2081/10/18"
+      },
+      {
+        "label": "homePage.present_in_assembly",
+        "date": "2081/10/27"
+      },
+      {
+        "label": "General Discussion",
+        "date": "2082/05/03"
+      },
+      {
+        "label": "Discussion in Committee",
+        "date": "2082/05/13"
+      },
+      {
+        "label": "Report Submitted by Committee",
+        "date": "2082/10/26"
+      }
+    ],
+    "scraped_at": "2026-03-03T17:03:19.353858"
+  },
+  {
+    "bill_id": "UyZDi03k",
+    "type": "NA",
+    "titleNp": "राष्ट्रिय विधि विज्ञान प्रयोगशाला  (स्थापना र सञ्चालन) विधेयक, २०८१",
+    "titleEn": "National Forensic Science Laboratory (Establishment and Operation) Bill, 2081",
+    "registration_number": "2",
+    "year": "2081/09/23",
+    "sambat": "2081",
+    "presenter": "माननीय शिक्षा, विज्ञान तथा प्रविधि मन्त्री विद्या भट्टराई",
+    "ministry": "शिक्षा, विज्ञान तथा प्रविधि मन्त्रालय",
+    "session": "17",
+    "government_type": "सरकारी",
+    "bill_type": "मूल",
+    "category": "साधारण",
+    "resource_link": "https://na.parliament.gov.np/uploads/attachments/svckwy7a1fel3mdt.pdf",
+    "presenterEn": "Hon’ble Minister Bidya Bhattarai",
+    "ministryEn": "Ministry of Education, Science & Technology",
+    "government_type_en": "Governmental",
+    "bill_type_en": "Original",
+    "category_en": "General",
+    "current_status": "homePage.assembly_passed",
+    "current_status_date": "2082/10/23",
+    "status_timeline": [
+      {
+        "label": "Distribution to member",
+        "date": "2081/09/23"
+      },
+      {
+        "label": "homePage.present_in_assembly",
+        "date": "2081/10/24"
+      },
+      {
+        "label": "General Discussion",
+        "date": "2081/11/04"
+      },
+      {
+        "label": "Discussion in Committee",
+        "date": "2081/12/04"
+      },
+      {
+        "label": "Report Submitted by Committee",
+        "date": "2082/05/13"
+      },
+      {
+        "label": "homePage.assembly_passed",
+        "date": "2082/10/23"
+      }
+    ],
+    "scraped_at": "2026-03-03T17:03:19.983262"
+  },
+  {
+    "bill_id": "kH6AG8p9",
+    "type": "NA",
+    "titleNp": "पानीजहाज (सञ्चालन तथा व्यवस्थापन) विधेयक, २०८१ (मिति २०८२/०५/२७ गते प्रतिनिधि सभा विघटन भएसंगै विधेयक निष्क्रिय भएको)",
+    "titleEn": "Ship (Operation and Management) Bill, 2081",
+    "registration_number": "1",
+    "year": "2081/09/01",
+    "sambat": "2081",
+    "presenter": "माननीय  मन्त्री देवन्द्र दाहाल",
+    "ministry": "भौतिक पूर्वाधार तथा यातायात मन्त्रालय",
+    "session": "17",
+    "government_type": "सरकारी",
+    "bill_type": "मूल",
+    "category": "साधारण",
+    "resource_link": "https://na.parliament.gov.np/uploads/attachments/snrdxmzuqu4yw6oz.pdf",
+    "presenterEn": "Hon. MInister Devendra Dahal",
+    "ministryEn": "Ministry of Physical infrastructure and Transport",
+    "government_type_en": "Governmental",
+    "bill_type_en": "Original",
+    "category_en": "General",
+    "current_status": "homePage.assembly_passed",
+    "current_status_date": "2082/02/26",
+    "status_timeline": [
+      {
+        "label": "Distribution to member",
+        "date": "2081/09/02"
+      },
+      {
+        "label": "homePage.present_in_assembly",
+        "date": "2081/10/24"
+      },
+      {
+        "label": "General Discussion",
+        "date": "2081/10/27"
+      },
+      {
+        "label": "Discussion in Committee",
+        "date": "2081/11/06"
+      },
+      {
+        "label": "Report Submitted by Committee",
+        "date": "2082/02/07"
+      },
+      {
+        "label": "homePage.assembly_passed",
+        "date": "2082/02/26"
+      }
+    ],
+    "scraped_at": "2026-03-03T17:03:20.613066"
+  },
+  {
+    "bill_id": "41R6ShRU",
+    "type": "NA",
+    "titleNp": "नेपाल कानून व्यवसायी परिषद् (दोस्रो संशोधन) विधेयक, २०८१ (मिति २०८२/०५/२७ गते  प्रतिनिधि सभा विघटन भएसंगै विधेयक निष्क्रिय भएको)",
+    "titleEn": "Nepal Bar Council  (Second amendment) Bill, 2081",
+    "registration_number": "4",
+    "year": "2081/04/18",
+    "sambat": "2081",
+    "presenter": "मा. अजय कुमार चौरसिया",
+    "ministry": "कानून, न्याय तथा संसदीय मामिला मन्त्रालय",
+    "session": "16",
+    "government_type": "सरकारी",
+    "bill_type": "संशोधन",
+    "category": "साधारण",
+    "resource_link": "https://na.parliament.gov.np/uploads/attachments/lqh4j8gleks1oeyp.pdf",
+    "presenterEn": "Hon. Ajay Kumar Chaurasia",
+    "ministryEn": "Ministry of Law, Justice and Parliamentary Affairs",
+    "government_type_en": "Governmental",
+    "bill_type_en": "Amendment",
+    "category_en": "General",
+    "current_status": "homePage.assembly_passed",
+    "current_status_date": "2081/11/18",
+    "status_timeline": [
+      {
+        "label": "Distribution to member",
+        "date": "2081/04/21"
+      },
+      {
+        "label": "homePage.present_in_assembly",
+        "date": "2081/05/02"
+      },
+      {
+        "label": "General Discussion",
+        "date": "2081/05/06"
+      },
+      {
+        "label": "Discussion in Committee",
+        "date": "2081/05/13"
+      },
+      {
+        "label": "Report Submitted by Committee",
+        "date": "2081/11/11"
+      },
+      {
+        "label": "homePage.assembly_passed",
+        "date": "2081/11/18"
+      }
+    ],
+    "scraped_at": "2026-03-03T17:03:21.232203"
+  },
+  {
+    "bill_id": "B4AiGL8g",
+    "type": "NA",
+    "titleNp": "तिलगङ्गा नेत्र विश्वविद्यालय विधेयक, २०८१ (मिति २०८२/०५/२७ गते  प्रतिनिधि सभा विघटन भएसंगै विधेयक निष्क्रिय भएको)",
+    "titleEn": "Tilganga Eye University Bill, 2081",
+    "registration_number": "3",
+    "year": "2081/03/04",
+    "sambat": "2081",
+    "presenter": "माननीय मन्त्री सुमना श्रेष्ठ",
+    "ministry": "शिक्षा, विज्ञान तथा प्रविधि मन्त्रालय",
+    "session": "16",
+    "government_type": "सरकारी",
+    "bill_type": "मूल",
+    "category": "साधारण",
+    "resource_link": "https://na.parliament.gov.np/uploads/attachments/bmqubnjxppy7kzp5.pdf",
+    "presenterEn": "Hon. MInister Sumana Shreshtha",
+    "ministryEn": "Ministry of  Education, Science and Technology",
+    "government_type_en": "Governmental",
+    "bill_type_en": "Original",
+    "category_en": "General",
+    "current_status": "homePage.assembly_passed",
+    "current_status_date": "2081/12/04",
+    "status_timeline": [
+      {
+        "label": "Distribution to member",
+        "date": "2081/03/04"
+      },
+      {
+        "label": "homePage.present_in_assembly",
+        "date": "2081/03/10"
+      },
+      {
+        "label": "General Discussion",
+        "date": "2081/04/15"
+      },
+      {
+        "label": "Discussion in Committee",
+        "date": "2081/04/21"
+      },
+      {
+        "label": "Report Submitted by Committee",
+        "date": "2081/10/20"
+      },
+      {
+        "label": "homePage.assembly_passed",
+        "date": "2081/12/04"
+      }
+    ],
+    "scraped_at": "2026-03-03T17:03:21.866205"
+  },
+  {
+    "bill_id": "gGDFdsdh",
+    "type": "NA",
+    "titleNp": "नवीकरणीय उर्जा तथा उर्जा दक्षता सम्बन्धी विधेयक, २०८१ (मिति २०८२/०५/२७ गते प्रतिनिधि सभा विघटन भएसंगै विधेयक निष्क्रिय भएको)",
+    "titleEn": "Bill Relating to Renewal Energy and Energy Efficiency, 2081",
+    "registration_number": "2",
+    "year": "2081/02/31",
+    "sambat": "2081",
+    "presenter": "मा. मन्त्री शक्ति बहादुर बस्नेत",
+    "ministry": "उर्जा,जलस्रोत तथा सिंचाइ मन्त्रालय",
+    "session": "16",
+    "government_type": "सरकारी",
+    "bill_type": "मूल",
+    "category": "साधारण",
+    "resource_link": "https://na.parliament.gov.np/uploads/attachments/58c6gcut7c4uldpx.pdf",
+    "presenterEn": "Hon. Minister Shakti Bahadhur Basnet",
+    "ministryEn": "Ministry of Energy, Water Recourses and Irrigation",
+    "government_type_en": "Governmental",
+    "bill_type_en": "Original",
+    "category_en": "General",
+    "current_status": "homePage.assembly_passed",
+    "current_status_date": "2081/11/04",
+    "status_timeline": [
+      {
+        "label": "Distribution to member",
+        "date": "2081/02/32"
+      },
+      {
+        "label": "homePage.present_in_assembly",
+        "date": "2081/03/09"
+      },
+      {
+        "label": "General Discussion",
+        "date": "2081/03/10"
+      },
+      {
+        "label": "Discussion in Committee",
+        "date": "2081/03/17"
+      },
+      {
+        "label": "Report Submitted by Committee",
+        "date": "2081/10/18"
+      },
+      {
+        "label": "homePage.assembly_passed",
+        "date": "2081/11/04"
+      }
+    ],
+    "scraped_at": "2026-03-03T17:03:22.503563"
+  },
+  {
+    "bill_id": "xcr5Q9ZJ",
+    "type": "NA",
+    "titleNp": "मिडिया काउन्सिल विधेयक, २०८० (मिति २०८२/०५/२७ गते प्रतिनिधि सभा विघटन भएसंगै विधेयक निष्क्रिय भएको)",
+    "titleEn": "Media Council Bill, 2080",
+    "registration_number": "1",
+    "year": "2081/01/12",
+    "sambat": "2081",
+    "presenter": "माननीय मन्त्री रेखा शर्मा",
+    "ministry": "सञ्चार तथा सूचना प्रविधि मन्त्रालय",
+    "session": "16",
+    "government_type": "सरकारी",
+    "bill_type": "मूल",
+    "category": "साधारण",
+    "resource_link": "https://na.parliament.gov.np/uploads/attachments/hfqmnnkogvbsntps.pdf",
+    "presenterEn": "Honorable Minister Rekha Sharma",
+    "ministryEn": "Ministry of Communication and Information Technology",
+    "government_type_en": "Governmental",
+    "bill_type_en": "Original",
+    "category_en": "General",
+    "current_status": "homePage.assembly_passed",
+    "current_status_date": "2081/10/28",
+    "status_timeline": [
+      {
+        "label": "Distribution to member",
+        "date": "2081/01/13"
+      },
+      {
+        "label": "homePage.present_in_assembly",
+        "date": "2081/02/13"
+      },
+      {
+        "label": "General Discussion",
+        "date": "2081/02/20"
+      },
+      {
+        "label": "Discussion in Committee",
+        "date": "2081/02/28"
+      },
+      {
+        "label": "Report Submitted by Committee",
+        "date": "2081/10/18"
+      },
+      {
+        "label": "homePage.assembly_passed",
+        "date": "2081/10/28"
+      }
+    ],
+    "scraped_at": "2026-03-03T17:03:23.143056"
+  },
+  {
+    "bill_id": "7hXqPhjo",
+    "type": "NA",
+    "titleNp": "राष्ट्रिय मर्यादा सम्बन्धी विधेयक, २०७९ (मिति २०८२/०५/२७ गते प्रतिनिधि सभा विघटन भएसंगै विधेयक निष्क्रिय भएको)",
+    "titleEn": "राष्ट्रिय मर्यादा सम्बन्धी विधेयक, २०७९",
+    "registration_number": "1",
+    "year": "2079/12/05",
+    "sambat": "2079",
+    "presenter": "गोपी  आछामी, तुल विक, देवेन्द्र दाहाल, प्रकाश पन्थ, प्रमिलाकुमारी, वेदुराम भुसाल, रमेशजंग रायमाझी र",
+    "ministry": "गैरसरकारी विधेयक",
+    "session": "13",
+    "government_type": "गैर-सरकारी",
+    "bill_type": "मूल",
+    "category": "साधारण",
+    "resource_link": "https://na.parliament.gov.np/uploads/attachments/zzlh3dswek6cj293.pdf",
+    "presenterEn": "",
+    "ministryEn": "",
+    "government_type_en": "Non Governmental",
+    "bill_type_en": "Original",
+    "category_en": "General",
+    "current_status": "homePage.assembly_passed",
+    "current_status_date": "2080/07/14",
+    "status_timeline": [
+      {
+        "label": "Distribution to member",
+        "date": "2079/12/06"
+      },
+      {
+        "label": "homePage.present_in_assembly",
+        "date": "2079/12/12"
+      },
+      {
+        "label": "General Discussion",
+        "date": "2079/12/12"
+      },
+      {
+        "label": "Discussion in Committee",
+        "date": "2079/12/16"
+      },
+      {
+        "label": "Report Submitted by Committee",
+        "date": "2080/07/14"
+      },
+      {
+        "label": "homePage.assembly_passed",
+        "date": "2080/07/14"
+      }
+    ],
+    "scraped_at": "2026-03-03T17:03:23.786339"
+  },
+  {
+    "bill_id": "lzOGl0ru",
+    "type": "NA",
+    "titleNp": "संवैधानिक परिषद (काम, कर्तव्य, अधिकार र र कार्यविधि) सम्बन्धी (पहिलो संशोधन) विधेयक,२०७९ (मिति २०७९/११/०५ मा फिर्ता)",
+    "titleEn": "संवैधानिक परिषद (काम, कर्तव्य, अधिकार र र कार्यविधि) सम्बन्धी (पहिलो संशोधन) विधेयक,२०७९ (मिति २०७९/११/०५ मा फिर्ता)",
+    "registration_number": "4",
+    "year": "2079/03/22",
+    "sambat": "२०७९",
+    "presenter": "सम्माननीय प्रधानमन्त्री शेर बहादुर देउवा",
+    "ministry": "प्रधानमन्त्री तथा मन्त्री परिषदको कार्यालय",
+    "session": "12",
+    "government_type": "सरकारी",
+    "bill_type": "संशोधन",
+    "category": "साधारण",
+    "resource_link": "https://na.parliament.gov.np/uploads/attachments/pay49aepzrmtm1no.pdf",
+    "presenterEn": "",
+    "ministryEn": "",
+    "government_type_en": "Governmental",
+    "bill_type_en": "Amendment",
+    "category_en": "General",
+    "current_status": "Distribution to member",
+    "current_status_date": "2079/03/23",
+    "status_timeline": [
+      {
+        "label": "Distribution to member",
+        "date": "2079/03/23"
+      }
+    ],
+    "scraped_at": "2026-03-03T17:03:24.413296"
+  },
+  {
+    "bill_id": "41RfL1mX",
+    "type": "NA",
+    "titleNp": "कोभिड-१९ सङ्कट व्यवस्थापन विधेयक, २०७८ (मिति २०८०/०२/१५ मा फिर्ता)",
+    "titleEn": "कोभिड-१९ सङ्कट व्यवस्थापन विधेयक, २०७८ (मिति २०८०/०२/१५ मा फिर्ता)",
+    "registration_number": "3",
+    "year": "2078/07/16",
+    "sambat": "2078",
+    "presenter": "मा.मन्त्री विरोध खतिवडा",
+    "ministry": "स्वास्थ्य तथा जनसंख्या मन्त्रालय",
+    "session": "11",
+    "government_type": "सरकारी",
+    "bill_type": "मूल",
+    "category": "साधारण",
+    "resource_link": "https://na.parliament.gov.np/uploads/attachments/ozmoxvvkvuvo4gds.pdf",
+    "presenterEn": "",
+    "ministryEn": "",
+    "government_type_en": "Governmental",
+    "bill_type_en": "Original",
+    "category_en": "General",
+    "current_status": "Discussion in Committee",
+    "current_status_date": "2079-03-20",
+    "status_timeline": [
+      {
+        "label": "Distribution to member",
+        "date": "2078/07/16"
+      },
+      {
+        "label": "homePage.present_in_assembly",
+        "date": "2079-03-08"
+      },
+      {
+        "label": "General Discussion",
+        "date": "2079-03-10"
+      },
+      {
+        "label": "Discussion in Committee",
+        "date": "2079-03-20"
+      }
+    ],
+    "scraped_at": "2026-03-03T17:03:25.040182"
+  },
+  {
+    "bill_id": "IpMzkueo",
+    "type": "NA",
+    "titleNp": "औषधि (तेस्रो संशोधन) विधेयक, २०७८ (मिति २०७८/१२/३० मा फिर्ता भएको)",
+    "titleEn": "औषधि (तेस्रो संशोधन) विधेयक, २०७८ (मिति २०७८/१२/३० मा फिर्ता भएको)",
+    "registration_number": "2",
+    "year": "2078/07/16",
+    "sambat": "2078",
+    "presenter": "मा.मन्त्री विरोध खतिवडा",
+    "ministry": "स्वास्थ्य तथा जनसंख्या मन्त्रालय",
+    "session": "11",
+    "government_type": "सरकारी",
+    "bill_type": "संशोधन",
+    "category": "साधारण",
+    "resource_link": "https://na.parliament.gov.np/uploads/attachments/6yi7737ghirucmgz.pdf",
+    "presenterEn": "",
+    "ministryEn": "",
+    "government_type_en": "Governmental",
+    "bill_type_en": "Amendment",
+    "category_en": "General",
+    "current_status": "Distribution to member",
+    "current_status_date": "2078/07/16",
+    "status_timeline": [
+      {
+        "label": "Distribution to member",
+        "date": "2078/07/16"
+      }
+    ],
+    "scraped_at": "2026-03-03T17:03:25.654586"
+  },
+  {
+    "bill_id": "fHax23og",
+    "type": "NA",
+    "titleNp": "स्वास्थ्यकर्मी तथा स्वास्थ्य संस्थाको सुरक्षा सम्बन्धी (पहिलो संशोधन) विधेयक,२०७८ (मिति २०७८/१२/३० मा फिर्ता भएको)",
+    "titleEn": "स्वास्थ्यकर्मी तथा स्वास्थ्य संस्थाको सुरक्षा सम्बन्धी (पहिलो संशोधन) विधेयक,२०७८ (मिति २०७८/१२/३० मा फिर्ता भएको)",
+    "registration_number": "1",
+    "year": "2078/07/16",
+    "sambat": "2078",
+    "presenter": "मा.मन्त्री विरोध खतिवडा",
+    "ministry": "स्वास्थ्य तथा जनसंख्या मन्त्रालय",
+    "session": "11",
+    "government_type": "सरकारी",
+    "bill_type": "संशोधन",
+    "category": "साधारण",
+    "resource_link": "https://na.parliament.gov.np/uploads/attachments/urpczi6sshjuujxx.pdf",
+    "presenterEn": "",
+    "ministryEn": "",
+    "government_type_en": "Governmental",
+    "bill_type_en": "Amendment",
+    "category_en": "General",
+    "current_status": "Distribution to member",
+    "current_status_date": "2078/07/16",
+    "status_timeline": [
+      {
+        "label": "Distribution to member",
+        "date": "2078/07/16"
+      }
+    ],
+    "scraped_at": "2026-03-03T17:03:26.329077"
+  },
+  {
+    "bill_id": "yMwuHgRl",
+    "type": "NA",
+    "titleNp": "फौजदारी कसूर तथा फौजदारी कार्यविधि सम्बन्धी केही ऐन संशोधन गर्ने विधेयक,२०७८ (मिति २०७८/०६/२२ मा फिर्ता भएको)",
+    "titleEn": "फौजदारी कसूर तथा फौजदारी कार्यविधि सम्बन्धी केही ऐन संशोधन गर्ने विधेयक,२०७८ (मिति २०७८/०६/२२ मा फिर्ता भएको)",
+    "registration_number": "2",
+    "year": "2078/05/31",
+    "sambat": "2078",
+    "presenter": "मा.मन्त्री ज्ञानेन्द्र बहादुर कार्की",
+    "ministry": "कानून, न्याय तथा संसदिय मामिला मन्त्रालय",
+    "session": "10",
+    "government_type": "सरकारी",
+    "bill_type": "संशोधन",
+    "category": "साधारण",
+    "resource_link": "https://na.parliament.gov.np/uploads/attachments/71c2ts5nzdcoacy2.pdf",
+    "presenterEn": "",
+    "ministryEn": "",
+    "government_type_en": "Governmental",
+    "bill_type_en": "Amendment",
+    "category_en": "General",
+    "current_status": "Distribution to member",
+    "current_status_date": "2078/06/01",
+    "status_timeline": [
+      {
+        "label": "Distribution to member",
+        "date": "2078/06/01"
+      }
+    ],
+    "scraped_at": "2026-03-03T17:03:26.979016"
+  },
+  {
+    "bill_id": "zQdD701Q",
+    "type": "NA",
+    "titleNp": "यौन हिंसा विरुद्धका केही ऐनलाई संशोधन गर्ने विधेयक,२०७८  (मिति २०७८/०६/२२ मा फिर्ता भएको)",
+    "titleEn": "यौन हिंसा विरुद्धका केही ऐनलाई संशोधन गर्ने विधेयक,२०७८  (मिति २०७८/०६/२२ मा फिर्ता भएको)",
+    "registration_number": "1",
+    "year": "2078/05/31",
+    "sambat": "2078",
+    "presenter": "मा.मन्त्री ज्ञानेन्द्र बहादुर कार्की",
+    "ministry": "कानून, न्याय तथा संसदीय मामिला मन्त्रालय",
+    "session": "10",
+    "government_type": "सरकारी",
+    "bill_type": "संशोधन",
+    "category": "साधारण",
+    "resource_link": "https://na.parliament.gov.np/uploads/attachments/s8spf9js6vithjm1.pdf",
+    "presenterEn": "",
+    "ministryEn": "",
+    "government_type_en": "Governmental",
+    "bill_type_en": "Amendment",
+    "category_en": "General",
+    "current_status": "Distribution to member",
+    "current_status_date": "2078/06/01",
+    "status_timeline": [
+      {
+        "label": "Distribution to member",
+        "date": "2078/06/01"
+      }
+    ],
+    "scraped_at": "2026-03-03T17:03:27.616835"
+  },
+  {
+    "bill_id": "u9W0wwFa",
+    "type": "NA",
+    "titleNp": "विद्युत विधेयक, २०७७ (मिति २०७९/०५/३१ मा फिर्ता)",
+    "titleEn": "Electricity bill, 2077",
+    "registration_number": "5",
+    "year": "2077/03/18",
+    "sambat": "२०७७",
+    "presenter": "वर्षमान पुन 'अनन्त'",
+    "ministry": "ऊर्जा, जलस्रोत तथा सिंचाइ मन्त्रालय",
+    "session": "06",
+    "government_type": "सरकारी",
+    "bill_type": "मूल",
+    "category": "साधारण",
+    "resource_link": "https://na.parliament.gov.np/uploads/attachments/kydefwv1tgrio6oh.pdf",
+    "presenterEn": "hon. Barshaman Pun 'Ananta'",
+    "ministryEn": "Ministry of Energy, Water Resources and Irrigation",
+    "government_type_en": "Governmental",
+    "bill_type_en": "Original",
+    "category_en": "General",
+    "current_status": "Report Submitted by Committee",
+    "current_status_date": "2079/03/05",
+    "status_timeline": [
+      {
+        "label": "Distribution to member",
+        "date": "2077/03/21"
+      },
+      {
+        "label": "homePage.present_in_assembly",
+        "date": "2078/04/20"
+      },
+      {
+        "label": "General Discussion",
+        "date": "2078/04/24"
+      },
+      {
+        "label": "Discussion in Committee",
+        "date": "2078/04/28"
+      },
+      {
+        "label": "Report Submitted by Committee",
+        "date": "2079/03/05"
+      }
+    ],
+    "scraped_at": "2026-03-03T17:03:28.237370"
+  },
+  {
+    "bill_id": "d1l1n87L",
+    "type": "NA",
+    "titleNp": "प्रतिलिपि अधिकार (पहिलो संशोधन) विधेयक, २०७६ (मिति २०८०/०१/१५ मा फिर्ता)",
+    "titleEn": "partilipi adhikar ( pahilo samsodhan) bidheyak,2076",
+    "registration_number": "3",
+    "year": "2077/02/19",
+    "sambat": "2077",
+    "presenter": "मा. संस्कृती, पर्यटन तथा नागरिक उड्डयन मन्त्री योगेश भट्टराई",
+    "ministry": "संस्कृती, पर्यटन तथा नागरिक उड्डयन मन्त्रालय",
+    "session": "06",
+    "government_type": "सरकारी",
+    "bill_type": "संशोधन",
+    "category": "साधारण",
+    "resource_link": "https://na.parliament.gov.np/uploads/attachments/w4g511x5whsq90cj.pdf",
+    "presenterEn": "Hon. Yogesh Bhattarai",
+    "ministryEn": "ministry of culture, tourism and civil aviation",
+    "government_type_en": "Governmental",
+    "bill_type_en": "Amendment",
+    "category_en": "General",
+    "current_status": "Report Submitted by Committee",
+    "current_status_date": "2079-03-05",
+    "status_timeline": [
+      {
+        "label": "Distribution to member",
+        "date": "2077/02/20"
+      },
+      {
+        "label": "homePage.present_in_assembly",
+        "date": "2077/02/27"
+      },
+      {
+        "label": "General Discussion",
+        "date": "2077/02/29"
+      },
+      {
+        "label": "Discussion in Committee",
+        "date": "2077/03/09"
+      },
+      {
+        "label": "Report Submitted by Committee",
+        "date": "2079-03-05"
+      }
+    ],
+    "scraped_at": "2026-03-03T17:03:28.879754"
+  },
+  {
+    "bill_id": "5mS9zRxH",
+    "type": "NA",
+    "titleNp": "सामाजिक सुरक्षा (पहिलो संशोधन) विधेयक,२०७७ (मिति २०७९/१२/२७ मा फिर्ता भएको)",
+    "titleEn": "samajik surakshya(pahilo samsodhan bidheyak)",
+    "registration_number": "1",
+    "year": "2077/02/22",
+    "sambat": "2077",
+    "presenter": "मा. प्रकाश पन्थ (राष्ट्रिय सभा सदस्य)",
+    "ministry": "गैरसरकारी",
+    "session": "06",
+    "government_type": "गैर-सरकारी",
+    "bill_type": "संशोधन",
+    "category": "साधारण",
+    "resource_link": "https://na.parliament.gov.np/uploads/attachments/dysy04uxsjzq8hua.pdf",
+    "presenterEn": "Hon.mp Parkash Pantha",
+    "ministryEn": "gairsarkari",
+    "government_type_en": "Non Governmental",
+    "bill_type_en": "Amendment",
+    "category_en": "General",
+    "current_status": null,
+    "current_status_date": null,
+    "status_timeline": [],
+    "scraped_at": "2026-03-03T17:03:29.524471"
+  },
+  {
+    "bill_id": "hK092z2z",
+    "type": "NA",
+    "titleNp": "नेपाल हवाई सेवा प्राधिकरण विधेयक, २०७६ (मिति २०७९।०६।०१ मा प्रतिनिधि सभाको कार्यकाल समाप्त भएकाले निष्क्रिय भएको)",
+    "titleEn": "Nepal hawai sewa paradikaran bideyek,2076",
+    "registration_number": "9",
+    "year": "2076/11/11",
+    "sambat": "2076",
+    "presenter": "मा.संस्कृति,पर्यटन तथा नागरिक उड्डयन मन्त्री योगेश भट्टराई",
+    "ministry": "संस्कृति,पर्यटन तथा नागरिक उड्डयन मन्त्रालय",
+    "session": "05",
+    "government_type": "सरकारी",
+    "bill_type": "मूल",
+    "category": "साधारण",
+    "resource_link": "https://na.parliament.gov.np/uploads/attachments/yq9nsbcjkmb8azbf.pdf",
+    "presenterEn": "Hon.Yogesh Bhattarai",
+    "ministryEn": "ministry of culture tourism and civil aviation",
+    "government_type_en": "Governmental",
+    "bill_type_en": "Original",
+    "category_en": "General",
+    "current_status": "homePage.assembly_passed",
+    "current_status_date": "2078/04/18",
+    "status_timeline": [
+      {
+        "label": "Distribution to member",
+        "date": "2076/11/12"
+      },
+      {
+        "label": "homePage.present_in_assembly",
+        "date": "2076/12/02"
+      },
+      {
+        "label": "General Discussion",
+        "date": "2076/12/03"
+      },
+      {
+        "label": "Discussion in Committee",
+        "date": "2078/01/31"
+      },
+      {
+        "label": "Report Submitted by Committee",
+        "date": "2078/03/23"
+      },
+      {
+        "label": "homePage.assembly_passed",
+        "date": "2078/04/18"
+      }
+    ],
+    "scraped_at": "2026-03-03T17:03:30.170185"
+  },
+  {
+    "bill_id": "KewfVG8N",
+    "type": "NA",
+    "titleNp": "नेपाल नागरिक उड्डयन प्राधिकरण विधेयक,२०७६ (मिति २०७९।०६।०१ मा प्रतिनिधि सभाको कार्यकाल समाप्त भएकाले निष्क्रिय भएको)",
+    "titleEn": "nepal nagari uddyan paradhikaran bidheyak,2076",
+    "registration_number": "8",
+    "year": "2076/11/11",
+    "sambat": "2076",
+    "presenter": "मा.संस्कृति,पर्यटन तथा नागरिक उड्डयन मन्त्री योगेश भट्टराई",
+    "ministry": "संस्कृति,पर्यटन तथा नागरिक उड्डयन मन्त्रालय",
+    "session": "05",
+    "government_type": "सरकारी",
+    "bill_type": "संशोधन",
+    "category": "साधारण",
+    "resource_link": "https://na.parliament.gov.np/uploads/attachments/u4039bzh5fiume7f.pdf",
+    "presenterEn": "Hon.Yogesh Bhattarai",
+    "ministryEn": "ministry of culture tourism and civil aviation",
+    "government_type_en": "Governmental",
+    "bill_type_en": "Amendment",
+    "category_en": "General",
+    "current_status": "homePage.assembly_passed",
+    "current_status_date": "2078/04/18",
+    "status_timeline": [
+      {
+        "label": "Distribution to member",
+        "date": "2076/11/12"
+      },
+      {
+        "label": "homePage.present_in_assembly",
+        "date": "2076/12/02"
+      },
+      {
+        "label": "General Discussion",
+        "date": "2076/12/03"
+      },
+      {
+        "label": "Discussion in Committee",
+        "date": "2077/01/31"
+      },
+      {
+        "label": "Report Submitted by Committee",
+        "date": "2078/03/23"
+      },
+      {
+        "label": "homePage.assembly_passed",
+        "date": "2078/04/18"
+      }
+    ],
+    "scraped_at": "2026-03-03T17:03:30.811717"
+  },
+  {
+    "bill_id": "i0Op5pNl",
+    "type": "NA",
+    "titleNp": "अध्यागमन विधेयक,२०७६ (२०८०/११/१४ मा फिर्ता)",
+    "titleEn": "Adhyagaman bidheyak,2076",
+    "registration_number": "7",
+    "year": "2076/11/08",
+    "sambat": "2076",
+    "presenter": "मा.गृह मन्त्री राम बहादुर थापा",
+    "ministry": "गृह मन्त्रालय",
+    "session": "05",
+    "government_type": "सरकारी",
+    "bill_type": "मूल",
+    "category": "अर्थ",
+    "resource_link": "https://na.parliament.gov.np/uploads/attachments/0mjyc2isrvnoibf0.pdf",
+    "presenterEn": "Hon.mp Ram Bahadur Thapa",
+    "ministryEn": "home affairs",
+    "government_type_en": "Governmental",
+    "bill_type_en": "Original",
+    "category_en": "Economic",
+    "current_status": "Report Submitted by Committee",
+    "current_status_date": "2079/03/05",
+    "status_timeline": [
+      {
+        "label": "Distribution to member",
+        "date": "2076/11/08"
+      },
+      {
+        "label": "homePage.present_in_assembly",
+        "date": "2076/11/15"
+      },
+      {
+        "label": "General Discussion",
+        "date": "2076/10/29"
+      },
+      {
+        "label": "Discussion in Committee",
+        "date": "2076/12/03"
+      },
+      {
+        "label": "Report Submitted by Committee",
+        "date": "2079/03/05"
+      }
+    ],
+    "scraped_at": "2026-03-03T17:03:31.435230"
+  },
+  {
+    "bill_id": "W9047zf6",
+    "type": "NA",
+    "titleNp": "अख्तियार दुरुपयोग अनुसन्धान आयोग (तेस्रो संशोधन) विधेयक,२०७६ (मिति २०८२/०५/२७ गते प्रतिनिधि सभा विघटन भएसंगै विधेयक निष्क्रिय भएको)",
+    "titleEn": "Akhatiyar durupayog anusandhan aayog (tesro samsodhan) bidheyak,2076",
+    "registration_number": "5",
+    "year": "2076/10/06",
+    "sambat": "2076",
+    "presenter": "सम्माननीय प्रधानमन्त्री के.पी शर्मा ‌ओली",
+    "ministry": "प्रधानमन्त्री तथा मन्त्रिपरिषदको कार्यालय",
+    "session": "05",
+    "government_type": "सरकारी",
+    "bill_type": "संशोधन",
+    "category": "साधारण",
+    "resource_link": "https://na.parliament.gov.np/uploads/attachments/d4wkwkgo3rrukmep.pdf",
+    "presenterEn": "Prime ministers K.P Sharma Oli",
+    "ministryEn": "Office of the Prime Minister and Council of Ministers",
+    "government_type_en": "Governmental",
+    "bill_type_en": "Amendment",
+    "category_en": "General",
+    "current_status": "homePage.assembly_passed",
+    "current_status_date": "2079-12-27",
+    "status_timeline": [
+      {
+        "label": "Distribution to member",
+        "date": "2076/10/07"
+      },
+      {
+        "label": "homePage.present_in_assembly",
+        "date": "2076/10/14"
+      },
+      {
+        "label": "General Discussion",
+        "date": "2076/10/19"
+      },
+      {
+        "label": "Discussion in Committee",
+        "date": "2076/10/22"
+      },
+      {
+        "label": "Report Submitted by Committee",
+        "date": "2077/03/08"
+      },
+      {
+        "label": "homePage.assembly_passed",
+        "date": "2079-12-27"
+      }
+    ],
+    "scraped_at": "2026-03-03T17:03:32.098843"
+  },
+  {
+    "bill_id": "cAzOrQ4C",
+    "type": "NA",
+    "titleNp": "रेल्वे विधेयक,२०७६  (मिति २०७८/०६/२५ मा फिर्ता भएको)",
+    "titleEn": "Relwe bill,2076",
+    "registration_number": "3",
+    "year": "2076/09/18",
+    "sambat": "2076",
+    "presenter": "मा.भौतिक पुर्वाधार तथा यातायात मन्त्री वसन्तकुमार नेम्बाङ्ग",
+    "ministry": "भौतिक पुर्वाधार तथा यातायात मन्त्रालय",
+    "session": "05",
+    "government_type": "सरकारी",
+    "bill_type": "मूल",
+    "category": "साधारण",
+    "resource_link": "https://na.parliament.gov.np/uploads/attachments/sfqvwuvkdq5dbud9.pdf",
+    "presenterEn": "Hon.M'ps Basantakumar Nembang",
+    "ministryEn": "Ministry of Physical Infrastructure and Transport",
+    "government_type_en": "Governmental",
+    "bill_type_en": "Original",
+    "category_en": "General",
+    "current_status": "homePage.assembly_passed",
+    "current_status_date": "2078/04/27",
+    "status_timeline": [
+      {
+        "label": "Distribution to member",
+        "date": "2076/09/18"
+      },
+      {
+        "label": "homePage.present_in_assembly",
+        "date": "2076/09/24"
+      },
+      {
+        "label": "General Discussion",
+        "date": "2076/09/27"
+      },
+      {
+        "label": "Discussion in Committee",
+        "date": "2076/10/05"
+      },
+      {
+        "label": "Report Submitted by Committee",
+        "date": "2078/04/26"
+      },
+      {
+        "label": "homePage.assembly_passed",
+        "date": "2078/04/27"
+      }
+    ],
+    "scraped_at": "2026-03-03T17:03:32.718889"
+  },
+  {
+    "bill_id": "qxWOshPk",
+    "type": "NA",
+    "titleNp": "नेपाल विशेष सेवा विधेयक,२०७६ (मिति २०७९।०६।०१ मा प्रतिनिधि सभाको कार्यकाल समाप्त भएकाले निष्क्रिय भएको)",
+    "titleEn": "Nepal Bishes Sewa bidheyak,2076",
+    "registration_number": "2",
+    "year": "2076/08/25",
+    "sambat": "2076",
+    "presenter": "सम्माननीय प्रधानमन्त्री के.पी शर्मा ‌ओली",
+    "ministry": "प्रधानमन्त्री तथा मन्त्रीपरिषदको कार्यालय",
+    "session": "05",
+    "government_type": "सरकारी",
+    "bill_type": "संशोधन",
+    "category": "साधारण",
+    "resource_link": "https://na.parliament.gov.np/uploads/attachments/fq4l2pxhncrmbtso.pdf",
+    "presenterEn": "hon.k.p Sharma Oli",
+    "ministryEn": "Office of the Prime Minister and Council of Ministers",
+    "government_type_en": "Governmental",
+    "bill_type_en": "Amendment",
+    "category_en": "General",
+    "current_status": "homePage.assembly_passed",
+    "current_status_date": "2077/02/07",
+    "status_timeline": [
+      {
+        "label": "Distribution to member",
+        "date": "२०७६/०८/२९"
+      },
+      {
+        "label": "homePage.present_in_assembly",
+        "date": "2076/09/14"
+      },
+      {
+        "label": "General Discussion",
+        "date": "2076/09/16"
+      },
+      {
+        "label": "Discussion in Committee",
+        "date": "2076/09/24"
+      },
+      {
+        "label": "Report Submitted by Committee",
+        "date": "2076/12/06"
+      },
+      {
+        "label": "homePage.assembly_passed",
+        "date": "2077/02/07"
+      }
+    ],
+    "scraped_at": "2026-03-03T17:03:33.328108"
+  },
+  {
+    "bill_id": "tdRKba3s",
+    "type": "NA",
+    "titleNp": "नीति अनुसन्धान प्रतिष्ठान विधेयक,२०७६ (मिति २०७९।०६।०१ मा प्रतिनिधि सभाको कार्यकाल समाप्त भएकाले निष्क्रिय भएको)",
+    "titleEn": "Niti anusandhan pratisthan bidheyak,2076",
+    "registration_number": "1",
+    "year": "2076/08/25",
+    "sambat": "2076",
+    "presenter": "सम्माननीय प्रधानमन्त्री के.पी शर्मा ‌ओली",
+    "ministry": "प्रधानमन्त्री तथा मन्त्रीपरिषदको कार्यालय",
+    "session": "05",
+    "government_type": "सरकारी",
+    "bill_type": "मूल",
+    "category": "साधारण",
+    "resource_link": "https://na.parliament.gov.np/uploads/attachments/a2zj9b90rdgztwqm.pdf",
+    "presenterEn": "Hon.K.P. Sharma Oli",
+    "ministryEn": "Office of the Prime Minister and Council of Ministers",
+    "government_type_en": "Governmental",
+    "bill_type_en": "Original",
+    "category_en": "General",
+    "current_status": "homePage.assembly_passed",
+    "current_status_date": "2077/02/13",
+    "status_timeline": [
+      {
+        "label": "Distribution to member",
+        "date": "2076/08/29"
+      },
+      {
+        "label": "homePage.present_in_assembly",
+        "date": "2076/09/07"
+      },
+      {
+        "label": "General Discussion",
+        "date": "2076/09/24"
+      },
+      {
+        "label": "Discussion in Committee",
+        "date": "2076/10/06"
+      },
+      {
+        "label": "Report Submitted by Committee",
+        "date": "2077/02/07"
+      },
+      {
+        "label": "homePage.assembly_passed",
+        "date": "2077/02/13"
+      }
+    ],
+    "scraped_at": "2026-03-03T17:03:33.946839"
+  },
+  {
+    "bill_id": "8hEexwfi",
+    "type": "NA",
+    "titleNp": "नेपाल मिडिया काउन्सिल सम्बन्धी कानूनलाई संशोधन र एकीकरण गर्न बनेको विधेयक (मिति २०७९।०६।०१ मा प्रतिनिधि सभाको कार्यकाल समाप्त भएकाले निष्क्रिय भएको)",
+    "titleEn": "Media Council bill",
+    "registration_number": "3",
+    "year": "2076/01/27",
+    "sambat": "2076",
+    "presenter": "संचार तथा सूचना प्रविधि मन्त्री श्री गोकुल प्रसाद बाँस्काेटा",
+    "ministry": "संचार तथा सूचना प्रविधि मन्त्रालय",
+    "session": "04",
+    "government_type": "सरकारी",
+    "bill_type": "संशोधन",
+    "category": "साधारण",
+    "resource_link": "https://na.parliament.gov.np/uploads/attachments/o8lmmh8mitfvgdsg.pdf",
+    "presenterEn": "Gokul Prasad Baskota",
+    "ministryEn": "Ministry of Communication and Information Technology",
+    "government_type_en": "Governmental",
+    "bill_type_en": "Amendment",
+    "category_en": "General",
+    "current_status": "homePage.assembly_passed",
+    "current_status_date": "2076/10/23",
+    "status_timeline": [
+      {
+        "label": "Distribution to member",
+        "date": "2076/01/27"
+      },
+      {
+        "label": "homePage.present_in_assembly",
+        "date": "2076/05/12"
+      },
+      {
+        "label": "General Discussion",
+        "date": "2076/05/13"
+      },
+      {
+        "label": "Discussion in Committee",
+        "date": "2076/05/25"
+      },
+      {
+        "label": "Report Submitted by Committee",
+        "date": "2076/10/14"
+      },
+      {
+        "label": "homePage.assembly_passed",
+        "date": "2076/10/23"
+      }
+    ],
+    "scraped_at": "2026-03-03T17:03:34.577447"
+  },
+  {
+    "bill_id": "3rQrBiuq",
+    "type": "NA",
+    "titleNp": "गुठी सम्बन्धी कानुनलाई एकीकरण र संशोधन गर्न बनेको विधेयक,२०७५ (मिति २०७६/०३/१० मा फिर्ता भएको)",
+    "titleEn": "guthi sambandhi kanunlai yakikarn ra samsodhan garna baneko bidheyak,2075",
+    "registration_number": "2",
+    "year": "2076/01/17",
+    "sambat": "2076",
+    "presenter": "भूमी व्यबस्था,सहकारी तथा गरिबी निवारण मन्त्री मा. पद्‍्‍मा कुमारी अर्याल",
+    "ministry": "भूमी व्यबस्था,सहकारी तथा गरिबी निवारण मन्त्रालय",
+    "session": "04",
+    "government_type": "सरकारी",
+    "bill_type": "संशोधन",
+    "category": "साधारण",
+    "resource_link": "https://na.parliament.gov.np/uploads/attachments/bzy8wobvtiyjbcb8.pdf",
+    "presenterEn": "Padma kumari Aryal",
+    "ministryEn": "ministry of land management cooperatives and poverty alleviation",
+    "government_type_en": "Governmental",
+    "bill_type_en": "Amendment",
+    "category_en": "General",
+    "current_status": "General Discussion",
+    "current_status_date": "2076/02/13",
+    "status_timeline": [
+      {
+        "label": "Distribution to member",
+        "date": "2076/01/19"
+      },
+      {
+        "label": "homePage.present_in_assembly",
+        "date": "2076/02/06"
+      },
+      {
+        "label": "General Discussion",
+        "date": "2076/02/13"
+      }
+    ],
+    "scraped_at": "2026-03-03T17:03:35.211909"
+  }
+]
